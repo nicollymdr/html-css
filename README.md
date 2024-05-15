@@ -1,2 +1,2 @@
 # html-css
- Curdo de Html5 e CSS
+ Curso de Html5 e CSS
